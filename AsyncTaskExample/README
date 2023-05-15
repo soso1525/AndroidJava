@@ -1,0 +1,2 @@
+AsyncTask was deprecated in API level 30.
+Use the standard java.util.concurrent or Kotlin concurrency utilities instead.
